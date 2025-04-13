@@ -2,3 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.inconsolata{
+  font-family: 'Inconsolata', monospace;
+}
+
+.roboto-mono{
+  font-family: 'Roboto Mono', monospace;
+} 
